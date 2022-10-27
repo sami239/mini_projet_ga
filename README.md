@@ -1,14 +1,28 @@
-# mini_projet_ga
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini_projet_ga/main?filepath=index.ipynb)
-## presentation
- 
- ceci est un test
- <img src="image/img.png" width="80px"> 
+# mini_projet_GLA
 
- ## :blush: dataset
-le data set containt
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/mini_projet_GLA/main?filepath=index.ipynb)
 
-## Analyse 
+## Présentation
+
+ceci est un prototype de projet en analyse de donnée
+on a utilisé la bibliothèque pandas
+
+<img src='img/pandas.png' width=80px>
+
+## :file_folder: Dataset 
+
+le data set contient des données dates
+|   userid | date                |   valeurs |
+|---------:|:--------------------|----------:|
+|        1 | 2017-01-01 00:00:00 |        94 |
+|        2 | 2017-01-02 00:00:00 |         4 |
+|        3 | 2017-01-03 00:00:00 |        83 |
+|        4 | 2018-01-01 00:00:00 |         4 |
+|        5 | 2018-01-02 00:00:00 |        96 |
+
+## Analyse
 
 
-## Conclution
+## Conclusion 
+
+
