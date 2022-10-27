@@ -1,5 +1,5 @@
 # mini_projet_ga
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini_projet_ga/main?filepath=index.ipnb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini_projet_ga/main?filpath=index.ipnb)
 ## presentation
  
  ceci est un test
